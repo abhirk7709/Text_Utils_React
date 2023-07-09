@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Text_Utils_React/static/css/main.073c9b0a.css",
-    "main.js": "/Text_Utils_React/static/js/main.b897ffcf.js",
-    "static/js/787.f426dc15.chunk.js": "/Text_Utils_React/static/js/787.f426dc15.chunk.js",
-    "index.html": "/Text_Utils_React/index.html",
-    "main.073c9b0a.css.map": "/Text_Utils_React/static/css/main.073c9b0a.css.map",
-    "main.b897ffcf.js.map": "/Text_Utils_React/static/js/main.b897ffcf.js.map",
-    "787.f426dc15.chunk.js.map": "/Text_Utils_React/static/js/787.f426dc15.chunk.js.map"
+    "main.css": "/abhirk7709/Text_Utils_React.git/static/css/main.073c9b0a.css",
+    "main.js": "/abhirk7709/Text_Utils_React.git/static/js/main.45e8aa70.js",
+    "static/js/787.f426dc15.chunk.js": "/abhirk7709/Text_Utils_React.git/static/js/787.f426dc15.chunk.js",
+    "index.html": "/abhirk7709/Text_Utils_React.git/index.html",
+    "main.073c9b0a.css.map": "/abhirk7709/Text_Utils_React.git/static/css/main.073c9b0a.css.map",
+    "main.45e8aa70.js.map": "/abhirk7709/Text_Utils_React.git/static/js/main.45e8aa70.js.map",
+    "787.f426dc15.chunk.js.map": "/abhirk7709/Text_Utils_React.git/static/js/787.f426dc15.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b897ffcf.js"
+    "static/js/main.45e8aa70.js"
   ]
 }
